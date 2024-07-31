@@ -50,35 +50,35 @@ So, the percentage tells us how the current traffic level compares to what it wa
  
 Creation of additional conditional column to segment the low and moderate traffic
 
-Step 1: Identify the baseline traffic volume for the period from February 1 to March 15, 2020.
+- Step 1: Identify the baseline traffic volume for the period from February 1 to March 15, 2020.
 The baseline traffic volume from February 1 to march 15m, 2020 is 7247
-Step 2: Calculate the percentage change in traffic volume for each subsequent month compared to the baseline.
+- Step 2: Calculate the percentage change in traffic volume for each subsequent month compared to the baseline.
 Answer is on the Dashboard
 
 ## Trend Analysis
-Step 1: Plot the monthly traffic volume percentages to visualize trends over time.
+- Step 1: Plot the monthly traffic volume percentages to visualize trends over time.
 Initial Impact: There was a significant decline in airport traffic volume immediately following the onset of COVID-19, with the sharpest drops observed in April and May 2020.
-Step 2: Identify key periods of decline and recovery in traffic volume.
+- Step 2: Identify key periods of decline and recovery in traffic volume.
 period of decline is around December while for recovery is starting from march to November
-Step 3: Analyze the impact of major COVID-19 events and policies (e.g., lockdowns, travel restrictions) on traffic volume.
+- Step 3: Analyze the impact of major COVID-19 events and policies (e.g., lockdowns, travel restrictions) on traffic volume.
 Covid-19 event results to Low movement of People
 
 ## Geospatial Visualization
 Geospatial Insights
 •	Regional Differences: Certain regions showed quicker recovery rates, potentially due to domestic travel being less restricted compared to international travel.
 •	Hotspots of Decline: Major international airports experienced the most significant declines, while smaller regional airports showed more resilience.
-Step 1: Use a geospatial visualization tool to create dynamic maps showing traffic changes.
-Step 2: Highlight airports with significant changes in traffic volume.
-Step 3: Create interactive features to explore traffic volume by month and region.
+- Step 1: Use a geospatial visualization tool to create dynamic maps showing traffic changes.
+- Step 2: Highlight airports with significant changes in traffic volume.
+- Step 3: Create interactive features to explore traffic volume by month and region.
 This can be view on the Dashboard
 
 
 ## Reporting and Insights
-Step 1: Summarize key findings from the trend analysis and geospatial visualization.
+- Step 1: Summarize key findings from the trend analysis and geospatial visualization.
 Answer is on the Dashboard
-Step 2: Discuss the implications of these findings for airport operations and planning.
+- Step 2: Discuss the implications of these findings for airport operations and planning.
 Base on this data there will be low revenue generated and reduction in number of people traveling 
-Step 3: Provide recommendations for airport authorities and policymakers to manage future disruptions.
+- Step 3: Provide recommendations for airport authorities and policymakers to manage future disruptions.
 Adaptable Strategies: Airports should develop adaptable operational strategies to quickly respond to fluctuating travel demand.
 Enhanced Safety Measures: Continued investment in health and safety measures to regain traveler confidence.
 Diversification: Diversification of services and revenue streams to mitigate the impact of future disruptions.
